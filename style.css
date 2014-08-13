@@ -1,20 +1,10 @@
-/*body {
-	background-image: url(http://imagesniff.com/wp-content/uploads/2013/12/cool_background_designs.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-}*/
-
 nav {
 	display: inline-block;
 	list-style-type: none;
 }
+
 div {
 
-}
-
-.image{
-	width: 940px;
 }
 
 .departments {
@@ -23,18 +13,13 @@ div {
 	text-align: center;
 }
 
-#frontimg {
-	/*background-image: url(http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nittaidai.jpg/1024px-Nittaidai.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;*/
-    border: 1px solid red;
-/*    height: 50px;
-    width: 50px; */   
+footer{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	width: 100%;
+	text-align: center;
 }
 
-#ingcont {
-	background-color: blue;
-	margin-left: auto;
-	margin-right: auto;
-	width: 700px;
+ul {
+	padding-left: 0;
 }
